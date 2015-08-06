@@ -1,0 +1,113 @@
+.com-detail {
+    float: left;
+    margin-top: 20px;
+    width: 725px;
+}
+.com-detail h2 {
+    color: gray;
+    width: 720px;
+}
+ .com-detail p {
+    padding: 0;
+    float: left;
+    width: 575px;
+    padding-top: 15px;
+    line-height: 16px;
+    padding-left: 11px;
+}
+.call {
+    float: right;
+    border: 1px solid silver;
+    background-color: whitesmoke;
+    padding: 6px;
+    margin-top: 20px;
+}
+.call1 {
+    float: left;
+    border: 1px solid silver;
+    background-color: whitesmoke;
+    padding: 6px;
+    margin-top: 20px;
+    clear: 	both;
+}
+.staff {
+    float: left;
+}
+.terms {
+    margin-top: 50px;
+    width: 293px;
+    float: left;
+}
+.call-img {
+    float: left;
+    padding: 10px;
+}
+.call-img {
+    float: left;
+    height: 70px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    width: 65px;
+    border: 1px solid silver;
+}
+.call-img h3 {
+    position: relative;
+    bottom: 70px;
+    width: 200px;
+    border: none;
+    left: 88px;
+    color: gray;
+    font-size: 20px;
+}
+.terms p {
+    float: right;
+    padding: 0;
+    border-top: 1px dashed;
+    margin-top: 15px;
+    padding-top: 10px;
+}
+.graph {
+    border: 1px solid silver;
+    float: left;
+    padding: 6px;
+    height: 108px;
+    width: 279px;
+    background-color: #f9f9f9;
+}
+p#portal {
+    padding: 0;
+    padding-top: 11px;
+    float: left;
+}
+.services {
+    float: left;
+    margin-top: 15px;
+}
+.services h2 {
+    float: left;
+    width: 270px;
+    color: gray;
+}
+.services ul {
+    color: #1c3352;
+    font-size: 20px;
+}
+.services ul li a {
+    text-decoration: none;
+}
+.staff h2{
+	padding-top: 30px;
+}
+table {
+    width: 720px;
+    margin-top: 20px;
+    height: 180px;
+}
+tr {
+    background-color: #f7f7f7;
+    text-align: center;
+}
+th {
+    background-color: #666666;
+    color: #fff;
+}	

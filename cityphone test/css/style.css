@@ -1,0 +1,259 @@
+*{
+	margin: 0;
+}
+
+header {
+    background-color: #294e7a;
+    height: 120px;
+    color: #fff;
+}
+.wrapper {
+    width: 1050px;
+    margin: auto;
+}
+h1 {
+    font-family: serif;
+    font-weight: 500;
+    float: left;
+    padding-top: 25px;
+    font-size: 	40px;
+}
+form{
+	float: 	right;
+	margin-top:10px;
+}
+
+input[type="text"] {
+    background-color: #1c3352;
+    color: #667e98;
+    height: 28px;
+    border: 1px solid #597ca6;
+}
+input[type="submit"] {
+    background-color: #1c3352;
+    color: #fff;
+    height: 30px;
+    width: 40px;
+    font-size: 15px;
+    border: 1px solid #597ca6;
+}
+.nav {
+    float: right;
+    position: relative;
+    top: 90px;
+    left: 215px;
+}
+.nav ul{
+	height:30px;
+ }
+ .nav li {
+    display: inline;
+    height: inherit;
+    background-color: #3d73b1;
+    margin-left: 8px;
+}
+ .nav li a {
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+    font-family:arial;
+    padding: 12px;
+    background-color: #3d73b1;
+}
+.nav li a:hover{
+	color: black;
+	background-color: #fff;
+}
+.banner {
+    margin-top: 40px;
+    width: 755px;
+    border: 1px solid gray;
+    float: left;
+}
+.banner img {
+    padding: 5px 4px 7px 6px;
+}
+.left{
+    float: left;
+}
+.left-images1 {
+    float: left;
+    margin-top: 40px;
+    border: 1px solid silver;
+}
+.left-images1 img{
+	    padding: 3px 0px 1px 0px;
+}
+.left-images2 {
+    float: left;
+    border: 1px solid silver;
+}
+.left-images2 img{
+	    padding: 3px 0px 1px 0px;
+}
+.left-images3 {
+    float: left;
+    border: 1px solid silver;
+}
+.left-images3 img{
+	    padding: 3px 0px 1px 0px;
+}
+.cityphone{
+	width: 755px;
+	margin-left: 
+}
+.cityphone {
+    width: 755px;
+    float: left;
+    color: gray;
+    margin-top: 50px;
+    padding-bottom: -6px;
+}
+h2 {
+    border-bottom: 1px dashed;
+    padding-bottom: 20px;
+    width: 720px;
+}
+p {
+    font-family: arial;
+    padding-top: 20px;
+    line-height: 25px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    color: gray;
+}
+.About {
+    float: left;
+    width: 295px;
+    margin-top: 50px;
+    background-color: #f9f9f9;
+}
+.facebook-img {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.About h2{
+	color: gray;
+	margin-left: 10px;
+	width: 250px;
+	margin-top: 10px;
+
+}
+p.face-text {
+    padding: 30px;
+    line-height: initial;
+    font-family: arial;
+    line-height: 25px;
+}
+strong {
+    float: right;
+    padding: 8px;
+    color: #476c96;
+    font-family: arial;
+}
+
+.fblogo {
+    height: 115px;
+    background-color: #f9f9f9;
+    border: 1px solid silver;
+    width: 315px;
+}
+.facebook-wrap {
+    width: 330px;
+    float: left;
+} 
+
+.fblogo img {
+    width: 300px;
+    height: 105px;
+    padding: 6px;
+}
+h3 {
+    padding-top: 15px;
+    padding-bottom: 14px;
+    border-bottom: 1px dashed;
+    width: 298px;
+}
+.sign-wrap {
+    width: 330px;
+    float: left;
+    padding-left: 40px;
+} 
+.subsribe {
+    float: right;
+    margin-top: 41px;
+}
+.subsribe img {
+    border: 1px solid silver;
+    background-color: #f9f9f9;
+    
+}
+
+.right {
+    float: right;
+    width: 295px;
+}
+footer {
+    height: 500px;
+    background-color: #1c3352;
+    float: left;
+    width: 100%;
+    color: #fff;
+}
+.form-wrap {
+    float: left;
+    margin-top: 15px;
+    width: 385px;
+}
+.form-wrap h2{
+    width: 385px;
+}
+.form-wrap input[type="text"] {
+    background-color: #fff;
+    width: 180px;
+}
+
+.footer-form label {
+    float: left;
+    padding: 8px;
+    width: 175px;
+
+}
+button {
+    position: relative;
+    top: 145px;
+    right: 190px;
+    height: 30px;
+    width: 85px;
+    font-size: 15px;
+    color: gray;
+}
+.com-info {
+    float: left;
+    margin-top: 15px;
+    width: 292px;
+    margin-left: 40px;
+}
+.com-info h2{
+    width: 285px;
+}
+ 
+ul.info {
+    padding-left: 0;
+    padding-bottom: 15px;
+}
+ul.info li {
+    padding-top: 25px;
+    font-size: 18px;
+    font-family: monospace;
+    list-style-type: none;
+    padding-left: 0;
+}
+span {
+    color: #7b96b4;
+    font-size: 15px;
+}
+.fot-wrap {
+    float: left;
+    border-bottom: 1px dashed;
+}
